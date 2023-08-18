@@ -1,13 +1,7 @@
 #!/bin/bash
-<<<<<<< HEAD
-HEAD
 echo "ALX School"
 echo "ALX School"
 update_script
-=======
-update_script
 echo "ALX School"
-
 echo "ALX School"
 master
->>>>>>> a4e543417db7271dfd7084991e7a40bb846adcb4
